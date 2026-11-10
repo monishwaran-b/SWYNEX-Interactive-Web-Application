@@ -1,0 +1,9 @@
+{
+  "name": "FlowLedger - Smart Expense & Budget Studio",
+  "description": "Production-ready expense tracker and financial management app featuring reusable UI components, real-time form validation, robust state management, budget tracking, and repository submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
